@@ -1,17 +1,21 @@
-# kitaplik_uygulama
+# ReadTrack - Kitaplık Uygulaması 📚
 
-A new Flutter project.
+Bu proje, kitapseverlerin okuma alışkanlıklarını takip etmelerini, kitaplarını listelemelerini ve okuma süreçlerini yönetmelerini sağlayan modern bir **Flutter** mobil uygulamasıdır.
 
-## Getting Started
+## 🚀 Özellikler
+* **Kitap Yönetimi:** Okuduğunuz, okuyacağınız ve şu an okumakta olduğunuz kitapları kolayca listeleyin.
+* **Okuma Takibi:** Kitaplarda kaldığınız sayfaları güncelleyerek ilerlemenizi anlık olarak görün.
+* **Arama ve Filtreleme:** Kitaplık içindeki kitaplara hızlıca erişin.
+* **Modern Arayüz:** Kullanıcı dostu, sade ve şık tasarım.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Kullanılan Teknolojiler
+* **Framework:** [Flutter](https://flutter.dev) (Dart)
+* **Veritabanı / State Management:** (SQLite / Şema Tabanlı Yerel Depolama (Kitap verilerinin cihazda güvenli saklanması için)
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Kurulum ve Çalıştırma
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Projeyi yerelde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Bu depoyu bilgisayarınıza indirin:
+```bash
+   git clone [https://github.com/furkan-ai0/ReadTrack-KitaplikUygulama.git](https://github.com/furkan-ai0/ReadTrack-KitaplikUygulama.git)
